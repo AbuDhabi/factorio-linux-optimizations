@@ -1,0 +1,1 @@
+sudo aptitude install libhugetlbfs0 libmimalloc2.0
